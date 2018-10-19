@@ -2,10 +2,10 @@
 
 class Conexion{
 
-    private $serverName ="DESKTOP-LKVIL79\SQLEXPRESS";
-    private $usr="sa";
-    private $pwd="1234";
-    private $db="cmar";
+    private $serverName ="GO SQL SERVER AND PUT YOUR SERVER NAME";
+    private $usr="USER SQL (maybe sa)";
+    private $pwd="your password";
+    private $db="your database";
     private $conn;
 
     // Contenedor Instancia de la clase
